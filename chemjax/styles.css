@@ -1,0 +1,19 @@
+pre.chemjaxfrm {
+    display: block;
+    margin: 0 0 10px;
+    background-color: var(--light); /*#f8f9fa*/
+    border: 1px solid rgba(0,0,0,.15);
+    border-radius: .25rem;
+    padding: .5rem .75rem;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+span.chemjaxconf {
+    font-weight: bold;
+    /*color: #d4003a;*/
+    color: var(--primary); /*#0f6fc5*/
+    /*color: var(--danger);*/ /*#ca3120*/
+    /*color: var(--success);*/ /*#357a32*/
+}

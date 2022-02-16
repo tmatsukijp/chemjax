@@ -1,0 +1,10 @@
+{
+  "name": "moodle-atto_chemjaxpv-button",
+  "builds": {
+    "moodle-atto_chemjaxpv-button": {
+      "jsfiles": [
+        "button.js"
+      ]
+    }
+  }
+}

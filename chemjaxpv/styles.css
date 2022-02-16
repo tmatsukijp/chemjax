@@ -1,0 +1,56 @@
+
+code, pre {
+    display: block;
+    padding: 9.5px;
+    margin: 0 0 10px;
+    font-size: 13px;
+    line-height: 20px;
+    word-break: break-all;
+    word-wrap: break-word;
+    white-space: pre;
+    white-space: pre-wrap;
+    /*background-color: #d3bec4;*/
+    background-color: #cce6ea;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+
+pre {
+    clear: left;
+    color: #d4003a;
+    font-size: 16pt;
+    font-weight: bold;
+    line-height: 30px;
+}
+
+pre > span {
+    color: #00acdf;
+}
+
+li > span {
+    color: #00acdf;
+}
+
+.bs-docs-example {
+    position: relative;
+    margin: 15px 0;
+    padding: 19px 19px 14px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.bs-docs-example > h5 > span {
+    color: #00acdf;
+}
+
+.sub {
+    margin-left: 30px;
+}
+
+.sub2 {
+    margin-left: 60px;
+}
